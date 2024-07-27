@@ -1,0 +1,22 @@
+
+FOR app.py
+{
+If it's a hot day
+      It's a hot day
+      Drink plenty of water
+Otherwise if it's cold
+      It's a cold day
+      Wear warm clothes
+Otherwise
+       It's a lovely day
+       }
+
+FOR app2.py
+{
+Price of house $1M
+If buyer has good credit
+put down 10% down payment
+Otherwise
+put down 20% down payment
+Print down payment
+}
